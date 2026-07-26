@@ -1,4 +1,6 @@
-public class Metodos {
+package ej1_Metodos;
+
+public class Metodo {
 
     public static String tratarFrase(String frase, int opcion) {
 
