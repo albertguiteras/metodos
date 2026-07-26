@@ -16,7 +16,7 @@ Para evitarlo, incluir Scanner como static en la clase Main() para que no sea ob
 
 import java.util.Scanner;
 
-public class Main {
+public class MainEj2 {
 
     static Scanner sc = new Scanner(System.in);
 

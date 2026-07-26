@@ -8,7 +8,7 @@ El programa te pregunta qué comida le das. Mientras NO sean cacahuetes, la caca
 Pero si le das cacahuetes, llama al méto/do ‘dormirse’ y se calla, y en vez del mensaje anterior, vemos ‘zzZzzzz…’ (y aquí acaba el programa)
 Realizar no solo el méto/do 'dormirse()', sino también el de 'pideComida()'*/
 
-public class Main {
+public class MainEj3 {
     public static void main(String[] args) {
 
     }

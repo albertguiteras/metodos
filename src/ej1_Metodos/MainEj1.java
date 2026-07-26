@@ -9,7 +9,7 @@ Si la opción es 3, devolver la frase al revés (puedes buscar un méto/do direc
 
 import java.util.Scanner;
 
-public class Main {
+public class MainEj1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
