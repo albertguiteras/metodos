@@ -1,4 +1,4 @@
-# Métodos en Java — Modularización y Parámetros
+# Lab: Métodos en Java — Modularización y Parámetros
 
 ## 📖 Descripción del Laboratorio
 
@@ -11,7 +11,7 @@ Ejercicios enfocados en la modularización de código mediante funciones y méto
 - [x] Declaración de métodos con distintos tipos de retorno (`void`, primitivos, objetos)
 - [x] Paso de parámetros y argumentos
 - [x] Sobrecarga de métodos (Method Overloading)
-- [x] Buenas prácticas de refactorización y DRY (Don't Repeat Yourself)
+- [x] Buenas prácticas de refactorización y DRY
 
 ---
 
@@ -19,6 +19,7 @@ Ejercicios enfocados en la modularización de código mediante funciones y méto
 
 - **Java 17+**
 - **IntelliJ IDEA**
+- **Modularización**
 
 ---
 
